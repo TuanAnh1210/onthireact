@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "tuan anh",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "name": "tuan anh",
+      "price": 1200
+    },
+    {
+      "name": "test1",
+      "price": "113",
+      "id": 5
+    },
+    {
+      "name": "test1543543",
+      "price": "123",
+      "id": 6
+    },
+    {
+      "name": "213423",
+      "price": "2133",
+      "id": 7
+    },
+    {
+      "name": "234234",
+      "price": "4234",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "4234",
+      "price": "4324",
+      "id": 10
+    }
+  ]
+}
